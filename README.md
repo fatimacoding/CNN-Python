@@ -102,7 +102,7 @@ In addition to the CNN, the project explores other models for age and gender pre
 
 Each model's performance is evaluated, and results are compared to the CNN model, providing insights into their effectiveness for this task.
 
-## Additional Models Performance
+### Additional Models Performance
 
 | Model       | Accuracy | Mean Absolute Error (MAE) |
 |-------------|----------|---------------------------|
