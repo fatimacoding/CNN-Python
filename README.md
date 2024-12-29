@@ -4,6 +4,13 @@
 
 This project implements a model for predicting age and gender from facial images using Convolutional Neural Networks (CNNs). The model is trained on the UTKFace dataset, which contains a diverse set of images labeled with age and gender. Two CNN models are developed: CNN-1, which represents the baseline model, and CNN-2, which is trained after hyperparameter tuning to improve performance.
 
+### Project Contributors
+
+This project was developed collaboratively by:
+- @fatimacoding
+- @AseelIsCoding
+- @hdla22
+
 ## Table of Contents
 - [Requirements](#requirements)
 - [Installation](#installation)
@@ -75,7 +82,7 @@ The plot illustrates the training and validation mean absolute error (MAE) for a
 
 ### CNN Models Performance
 
-| Model   | Accuracy | Mean Absolute Error (MAE) |
+| Model   | Accuracy | Mean Squared Error (MSE) |
 |---------|----------|----------------------------|
 | CNN-1   | 85.13%   | 46.09                      |
 | CNN-2   | 95.43%   | 44.17                      |
@@ -97,7 +104,7 @@ Each model's performance is evaluated, and results are compared to the CNN model
 
 ## Additional Models Performance
 
-| Model       | Accuracy | Mean Squared Error (MSE) |
+| Model       | Accuracy | Mean Absolute Error (MAE) |
 |-------------|----------|---------------------------|
 | k-Nearest Neighbors (k-NN) | 74.67%   | 11.97                     |
 | Logistic & Linear Regression (L&L) | 84.54%   | 34.21                     |
