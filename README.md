@@ -7,9 +7,9 @@ This project implements a model for predicting age and gender from facial images
 ### Project Contributors
 
 This project was developed collaboratively by:
-- @fatimacoding
-- @AseelIsCoding
-- @hdla22
+- [@fatimacoding](https://github.com/fatimacoding)
+- [@AseelIsCoding](https://github.com/AseelIsCoding)
+- [@hdla22](https://github.com/hdla22)
 
 ## Table of Contents
 - [Requirements](#requirements)
